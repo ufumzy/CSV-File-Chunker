@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You need to have Python installed on your system. You can download and install Python from the official [Python website](https://www.python.org/).
+You also need to install pandas with "Pip install pandas"
 
 ### Installing
 
